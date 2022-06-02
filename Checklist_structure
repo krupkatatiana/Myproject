@@ -1,0 +1,17 @@
+Website "test.com.ua"
+1. registration
+email
+social media
+fields validation
+2. Autorization
+user is activated
+user is not activated
+password recovery
+fields validation
+3. Profile
+change name
+change email
+change password
+fields validation
+subscription
+delete account
